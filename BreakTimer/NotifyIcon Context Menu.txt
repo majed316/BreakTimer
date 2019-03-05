@@ -1,0 +1,11 @@
+Take Breakable Break		==> Unforced Break
+Take UnBreakable Break		==> Forced Break
+----------------------
+Start The Timer
+Pause The Timer
+Stop The Timer
+Show The Timer
+----------------------
+Exit
+Preferences...
+About...

@@ -1,0 +1,12 @@
+BreakTimer Updates:
+Remove robotic sounds because it is going to cause a heart attack for me, and replace it with a windows beep sound, that just inform you about the approach of the break.
+
+Create another form that does not have an administrator permision, and let it the first form to be launched, and from it launch the main BreakTimer form.
+
+
+After the Break finish let the program detect mouse movement, when the mouse moved that mean the user back to the pc so the program should start counting for the next break and in the same time disable the mouse detection mechanism untill the next break finish then start it again.
+
+Create another copy which force the following features:
+1- it start with os start.
+2- the user can't disable or close or shutdown it.
+tip: maybe you need to hide thr program completely even from the notification area, you may also convert it to process that can not be closed from task manager.
